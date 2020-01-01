@@ -12,13 +12,13 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://example.org/"
+baseURL = "https://green.peaks.netlify.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Green Peaks"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
-#googleAnalytics = "UA-123-45"
+disqusShortname = "https-green-peaks-netlify-com"
+googleAnalytics = "UA-92539076-3"
 paginate = 7
 canonifyurls = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
