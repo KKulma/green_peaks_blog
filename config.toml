@@ -76,7 +76,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
+  url = "/about"
 
 
 
@@ -157,7 +157,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Current image is on AWS S3 and delivered by AWS CloudFront.
   # Otherwise put your image, for example `cover.jpg` in folder `static/images/`,
   # and use relative url : `images/cover.jpg`
-   coverImage = "images/green13.jpg"
+   coverImage = "images/green1.jpg"
 # green4
 # green6
 # green13
